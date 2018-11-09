@@ -1,0 +1,15 @@
+{
+  "name": "spryker-feature/merchant-order-threshold",
+  "description": "Merchant Order Threshold [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/merchant": "~2018.11.0",
+    "spryker-feature/order-threshold": "~2018.11.0",
+    "spryker/merchant-relationship-sales-order-threshold": "^1.0.0",
+    "spryker/merchant-relationship-sales-order-threshold-data-import": "^0.1.0",
+    "spryker/merchant-relationship-sales-order-threshold-gui": "^1.0.1"
+  }
+}
