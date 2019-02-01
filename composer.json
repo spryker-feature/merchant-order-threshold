@@ -11,5 +11,10 @@
     "spryker/merchant-relationship-sales-order-threshold": "^1.0.1",
     "spryker/merchant-relationship-sales-order-threshold-data-import": "^0.1.0",
     "spryker/merchant-relationship-sales-order-threshold-gui": "^1.2.1"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
