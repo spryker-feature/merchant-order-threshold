@@ -1,6 +1,6 @@
 # Spryker Feature: Merchant Order Threshold
 
-Merchant can define an order threshold per B2B customer
+With the Merchant Order Threshold, a merchant can define an order threshold per B2B customer
 
 ## Installation
 
