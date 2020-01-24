@@ -7,8 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/merchant": "^201903.0",
-    "spryker-feature/order-threshold": "^201903.0",
     "spryker/merchant-relationship-sales-order-threshold": "^1.0.1",
     "spryker/merchant-relationship-sales-order-threshold-data-import": "^0.1.0",
     "spryker/merchant-relationship-sales-order-threshold-gui": "^1.4.0"
@@ -17,5 +15,9 @@
     "branch-alias": {
       "dev-master": "201903.x-dev"
     }
+  },
+  "suggest": {
+    "spryker-feature/merchant": "Recommended feature dependency.",
+    "spryker-feature/order-threshold": "Recommended feature dependency."
   }
 }
