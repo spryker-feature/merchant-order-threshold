@@ -7,9 +7,9 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
-    "spryker/merchant-relationship-sales-order-threshold": "^1.0.1",
+    "spryker/merchant-relationship-sales-order-threshold": "^1.1.0",
     "spryker/merchant-relationship-sales-order-threshold-data-import": "^0.1.0",
-    "spryker/merchant-relationship-sales-order-threshold-gui": "^1.4.0"
+    "spryker/merchant-relationship-sales-order-threshold-gui": "^1.6.0"
   },
   "extra": {
     "branch-alias": {
