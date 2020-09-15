@@ -17,7 +17,7 @@
     }
   },
   "suggest": {
-    "spryker-feature/merchant": "Recommended feature dependency.",
-    "spryker-feature/order-threshold": "Recommended feature dependency."
+    "spryker-feature/checkout": "Recommended feature dependency.",
+    "spryker-feature/merchant": "Recommended feature dependency."
   }
 }
