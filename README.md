@@ -9,8 +9,8 @@ composer require spryker-feature/merchant-order-threshold
 ```
 
 ## Recommended feature dependencies
+- [spryker-feature/checkout](https://github.com/spryker-feature/checkout)
 - [spryker-feature/merchant](https://github.com/spryker-feature/merchant)
-- [spryker-feature/order-threshold](https://github.com/spryker-feature/order-threshold)
 
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
