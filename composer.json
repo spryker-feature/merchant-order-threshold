@@ -1,23 +1,23 @@
 {
-  "name": "spryker-feature/merchant-order-threshold",
-  "description": "Merchant Order Threshold [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker/merchant-relationship-sales-order-threshold": "^1.1.0",
-    "spryker/merchant-relationship-sales-order-threshold-data-import": "^0.1.0",
-    "spryker/merchant-relationship-sales-order-threshold-gui": "^1.6.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/merchant-order-threshold",
+    "description": "Merchant Order Threshold [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/merchant-relationship-sales-order-threshold": "^1.1.0",
+        "spryker/merchant-relationship-sales-order-threshold-data-import": "^0.1.0",
+        "spryker/merchant-relationship-sales-order-threshold-gui": "^1.6.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/checkout": "Recommended feature dependency.",
+        "spryker-feature/merchant": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/checkout": "Recommended feature dependency.",
-    "spryker-feature/merchant": "Recommended feature dependency."
-  }
 }
