@@ -2,6 +2,8 @@
 
 With the Merchant Order Threshold, a merchant can define an order threshold per B2B customer
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/cart-and-checkout/202307.0/base-shop/checkout-feature-overview/order-thresholds-overview.html#merchant-order-thresholds)
+
 ## Installation
 
 ```
